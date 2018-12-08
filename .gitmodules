@@ -62,3 +62,7 @@
 	path = luakit
 	url = git+ssh://aur@aur.archlinux.org/luakit.git
 	branch = master
+[submodule "pepper"]
+	path = pepper
+	url = git+ssh://aur@aur.archlinux.org/pepper.git
+	branch = master
