@@ -14,3 +14,7 @@
 	path = kubeless-git
 	url = git+ssh://aur@aur.archlinux.org/kubeless-git.git
 	branch = master
+[submodule "dive-git"]
+	path = dive-git
+	url = git+ssh://aur@aur.archlinux.org/dive-git.git
+	branch = master
