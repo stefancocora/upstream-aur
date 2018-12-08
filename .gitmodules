@@ -46,3 +46,7 @@
 	path = cower
 	url = git+ssh://aur@aur.archlinux.org/cower.git
 	branch = master
+[submodule "datawire-forge"]
+	path = datawire-forge
+	url = git+ssh://aur@aur.archlinux.org/datawire-forge.git
+	branch = master
