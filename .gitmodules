@@ -2,3 +2,7 @@
 	path = stern-bin
 	url = git+ssh://aur@aur.archlinux.org/stern-bin.git
 	branch = master
+[submodule "kubeless"]
+	path = kubeless
+	url = git+ssh://aur@aur.archlinux.org/kubeless.git
+	branch = master
