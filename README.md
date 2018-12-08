@@ -6,7 +6,7 @@
 - steps: most steps for each pkg
   - once: create ssh key_pair
   - once:  update AUR with this pub key
-  - [ ] create a new empty(most of the time) git repo for your pkg
+  - [ ] ~~create a new empty(most of the time) git repo for your pkg~~ Better yet add these as submodules `git submodule add -b master git+ssh://aur@aur.archlinux.org/kubeless.git`
     - gets cloned from upstream and might not be empty.
   - [ ] setup gpg signing for commits ( inside each pkg maintained )
     - use CC7911F4AFE1C6C2 for signing
