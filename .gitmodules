@@ -98,3 +98,6 @@
 	path = yay
 	url = git+ssh://aur@aur.archlinux.org/yay.git
 	branch = master
+[submodule "vegeta-bin"]
+	path = vegeta-bin
+	url = git+ssh://aur@aur.archlinux.org/vegeta-bin.git
