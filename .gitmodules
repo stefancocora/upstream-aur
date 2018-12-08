@@ -50,3 +50,7 @@
 	path = datawire-forge
 	url = git+ssh://aur@aur.archlinux.org/datawire-forge.git
 	branch = master
+[submodule "drawio-desktop-bin"]
+	path = drawio-desktop-bin
+	url = git+ssh://aur@aur.archlinux.org/drawio-desktop-bin.git
+	branch = master
