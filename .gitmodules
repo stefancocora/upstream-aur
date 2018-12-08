@@ -86,3 +86,7 @@
 	path = telepresence
 	url = git+ssh://aur@aur.archlinux.org/telepresence.git
 	branch = master
+[submodule "wrk2-git"]
+	path = wrk2-git
+	url = git+ssh://aur@aur.archlinux.org/wrk2-git.git
+	branch = master
