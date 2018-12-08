@@ -74,3 +74,7 @@
 	path = img
 	url = git+ssh://aur@aur.archlinux.org/img.git
 	branch = master
+[submodule "img-bin"]
+	path = img-bin
+	url = git+ssh://aur@aur.archlinux.org/img-bin.git
+	branch = master
