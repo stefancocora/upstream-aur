@@ -10,3 +10,7 @@
 	path = kubeless-bin
 	url = git+ssh://aur@aur.archlinux.org/kubeless-bin.git
 	branch = master
+[submodule "kubeless-git"]
+	path = kubeless-git
+	url = git+ssh://aur@aur.archlinux.org/kubeless-git.git
+	branch = master
