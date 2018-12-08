@@ -18,3 +18,7 @@
 	path = dive-git
 	url = git+ssh://aur@aur.archlinux.org/dive-git.git
 	branch = master
+[submodule "plantuml"]
+	path = plantuml
+	url = git+ssh://aur@aur.archlinux.org/plantuml.git
+	branch = master
