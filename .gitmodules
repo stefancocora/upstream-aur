@@ -1,0 +1,4 @@
+[submodule "stern-bin"]
+	path = stern-bin
+	url = git+ssh://aur@aur.archlinux.org/stern-bin.git
+	branch = master
