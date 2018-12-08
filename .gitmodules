@@ -104,3 +104,6 @@
 [submodule "concourse-bin"]
 	path = concourse-bin
 	url = git+ssh://aur@aur.archlinux.org/concourse-bin.git
+[submodule "concourse-fly-bin"]
+	path = concourse-fly-bin
+	url = git+ssh://aur@aur.archlinux.org/concourse-fly-bin.git
