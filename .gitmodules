@@ -54,3 +54,7 @@
 	path = drawio-desktop-bin
 	url = git+ssh://aur@aur.archlinux.org/drawio-desktop-bin.git
 	branch = master
+[submodule "guix"]
+	path = guix
+	url = git+ssh://aur@aur.archlinux.org/guix.git
+	branch = master
