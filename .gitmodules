@@ -38,3 +38,7 @@
 	path = kalu-git
 	url = git+ssh://aur@aur.archlinux.org/kalu-git.git
 	branch = master
+[submodule "alacritty-git"]
+	path = alacritty-git
+	url = git+ssh://aur@aur.archlinux.org/alacritty-git.git
+	branch = master
