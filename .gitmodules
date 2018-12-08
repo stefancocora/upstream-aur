@@ -101,3 +101,6 @@
 [submodule "vegeta-bin"]
 	path = vegeta-bin
 	url = git+ssh://aur@aur.archlinux.org/vegeta-bin.git
+[submodule "concourse-bin"]
+	path = concourse-bin
+	url = git+ssh://aur@aur.archlinux.org/concourse-bin.git
