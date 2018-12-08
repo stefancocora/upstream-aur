@@ -30,3 +30,7 @@
 	path = skaffold
 	url = git+ssh://aur@aur.archlinux.org/skaffold.git
 	branch = master
+[submodule "kalu"]
+	path = kalu
+	url = git+ssh://aur@aur.archlinux.org/kalu.git
+	branch = master
