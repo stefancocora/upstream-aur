@@ -70,3 +70,7 @@
 	path = reg
 	url = git+ssh://aur@aur.archlinux.org/reg.git
 	branch = master
+[submodule "img"]
+	path = img
+	url = git+ssh://aur@aur.archlinux.org/img.git
+	branch = master
