@@ -94,3 +94,7 @@
 	path = thinkfan
 	url = git+ssh://aur@aur.archlinux.org/thinkfan.git
 	branch = master
+[submodule "yay"]
+	path = yay
+	url = git+ssh://aur@aur.archlinux.org/yay.git
+	branch = master
