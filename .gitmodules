@@ -58,3 +58,7 @@
 	path = guix
 	url = git+ssh://aur@aur.archlinux.org/guix.git
 	branch = master
+[submodule "luakit"]
+	path = luakit
+	url = git+ssh://aur@aur.archlinux.org/luakit.git
+	branch = master
