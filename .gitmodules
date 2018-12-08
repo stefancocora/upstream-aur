@@ -34,3 +34,7 @@
 	path = kalu
 	url = git+ssh://aur@aur.archlinux.org/kalu.git
 	branch = master
+[submodule "kalu-git"]
+	path = kalu-git
+	url = git+ssh://aur@aur.archlinux.org/kalu-git.git
+	branch = master
