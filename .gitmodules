@@ -90,3 +90,7 @@
 	path = wrk2-git
 	url = git+ssh://aur@aur.archlinux.org/wrk2-git.git
 	branch = master
+[submodule "thinkfan"]
+	path = thinkfan
+	url = git+ssh://aur@aur.archlinux.org/thinkfan.git
+	branch = master
