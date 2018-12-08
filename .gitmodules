@@ -78,3 +78,7 @@
 	path = img-bin
 	url = git+ssh://aur@aur.archlinux.org/img-bin.git
 	branch = master
+[submodule "kaniko"]
+	path = kaniko
+	url = git+ssh://aur@aur.archlinux.org/kaniko.git
+	branch = master
