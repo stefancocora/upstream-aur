@@ -82,3 +82,7 @@
 	path = kaniko
 	url = git+ssh://aur@aur.archlinux.org/kaniko.git
 	branch = master
+[submodule "telepresence"]
+	path = telepresence
+	url = git+ssh://aur@aur.archlinux.org/telepresence.git
+	branch = master
