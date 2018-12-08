@@ -22,3 +22,7 @@
 	path = plantuml
 	url = git+ssh://aur@aur.archlinux.org/plantuml.git
 	branch = master
+[submodule "skaffold-bin"]
+	path = skaffold-bin
+	url = git+ssh://aur@aur.archlinux.org/skaffold-bin.git
+	branch = master
