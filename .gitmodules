@@ -111,3 +111,6 @@
 	path = circleci-cli
 	url = git+ssh://aur@aur.archlinux.org/circleci-cli.git
 	branch = master
+[submodule "circleci-cli-bin"]
+	path = circleci-cli-bin
+	url = git+ssh://aur@aur.archlinux.org/circleci-cli-bin.git
