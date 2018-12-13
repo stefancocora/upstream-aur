@@ -107,3 +107,7 @@
 [submodule "concourse-fly-bin"]
 	path = concourse-fly-bin
 	url = git+ssh://aur@aur.archlinux.org/concourse-fly-bin.git
+[submodule "circleci-cli"]
+	path = circleci-cli
+	url = git+ssh://aur@aur.archlinux.org/circleci-cli.git
+	branch = master
