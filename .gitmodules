@@ -114,3 +114,7 @@
 [submodule "circleci-cli-bin"]
 	path = circleci-cli-bin
 	url = git+ssh://aur@aur.archlinux.org/circleci-cli-bin.git
+[submodule "python-pre-commit"]
+	path = python-pre-commit
+	url = git+ssh://aur@aur.archlinux.org/python-pre-commit.git
+	branch = master
