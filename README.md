@@ -1,4 +1,9 @@
-# aur
+# aur packages
+
+Src code is open and available:
+- https://gitlab.com/stefancocora/upstream-aur
+- https://github.com/stefancocora/upstream-aur
+- https://bitbucket.org/stefanc_diff/upstream-aur
 
 
 ## docs
@@ -9,7 +14,7 @@
   - [ ] ~~create a new empty(most of the time) git repo for your pkg~~ Better yet add these as submodules `git submodule add -b master git+ssh://aur@aur.archlinux.org/kubeless.git`
     - gets cloned from upstream and might not be empty.
   - [ ] setup gpg signing for commits ( inside each pkg maintained )
-    - use CC7911F4AFE1C6C2 for signing
+    - use CC7911F4AFE1C6C2 to sign commits
   - [ ] add .SRCINFO and PKGBUILD to the repo
   - [ ] git stage => commit => push to upstream origin
   - [ ] vote for this pkg
