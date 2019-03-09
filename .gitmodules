@@ -118,3 +118,23 @@
 	path = python-pre-commit
 	url = git+ssh://aur@aur.archlinux.org/python-pre-commit.git
 	branch = master
+[submodule "randrctl"]
+	path = randrctl
+	url = git+ssh://aur@aur.archlinux.org/randrctl.git
+	branch = master
+[submodule "randrctl-git"]
+	path = randrctl-git
+	url = git+ssh://aur@aur.archlinux.org/randrctl-git.git
+	branch = master
+[submodule "python-cookiecutter"]
+	path = python-cookiecutter
+	url = git+ssh://aur@aur.archlinux.org/python-cookiecutter.git
+	branch = master
+[submodule "fluxctl-bin"]
+	path = fluxctl-bin
+	url = git+ssh://aur@aur.archlinux.org/fluxctl-bin.git
+	branch = master
+[submodule "emacs-git"]
+	path = emacs-git
+	url = git+ssh://aur@aur.archlinux.org/emacs-git.git
+	branch = master
