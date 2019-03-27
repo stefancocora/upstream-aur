@@ -138,3 +138,6 @@
 	path = emacs-git
 	url = git+ssh://aur@aur.archlinux.org/emacs-git.git
 	branch = master
+[submodule "kubeseal-bin"]
+	path = kubeseal-bin
+	url = git+ssh://aur@aur.archlinux.org/kubeseal-bin.git
