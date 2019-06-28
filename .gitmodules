@@ -141,3 +141,6 @@
 [submodule "kubeseal-bin"]
 	path = kubeseal-bin
 	url = git+ssh://aur@aur.archlinux.org/kubeseal-bin.git
+[submodule "pms-git"]
+	path = pms-git
+	url = git+ssh://aur@aur.archlinux.org/pms-git.git
