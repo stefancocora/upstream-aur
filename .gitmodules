@@ -144,3 +144,10 @@
 [submodule "pms-git"]
 	path = pms-git
 	url = git+ssh://aur@aur.archlinux.org/pms-git.git
+[submodule "rke-bin"]
+	path = rke-bin
+	url = git+ssh://aur@aur.archlinux.org/rke-bin.git
+	branch = master
+[submodule "rkt-bin"]
+	path = rkt-bin
+	url = git+ssh://aur@aur.archlinux.org/rkt-bin.git
